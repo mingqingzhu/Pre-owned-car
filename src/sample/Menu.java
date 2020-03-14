@@ -30,7 +30,7 @@ public class Menu {
                     searchMenu();
                     break;
                 case 2:
-                    System.out.print("Bye! See your next time.");
+                    System.out.print("Bye! See you next time.");
                     System.exit(0);
                     break;
             }
